@@ -1,2 +1,2 @@
-# Between-Rain-Root
+# Rain & Root
 Where nature breathes and gears turn...
