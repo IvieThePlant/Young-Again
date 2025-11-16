@@ -1,17 +1,2 @@
 hash-format = "sha256"
-
-[[files]]
-file = ".gitattributes.txt"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
-
-[[files]]
-file = ".gitignore.txt"
-hash = "eb49facfdd2488fd2fa583f1bce654899ce74b6c92621a42fc38facd62a9da31"
-
-[[files]]
-file = ".packwizignore.txt"
-hash = "7adfaf00b7a3df0ded9e78c38675aef1e2f941a6d14b1b72ad57300534a06a7d"
-
-[[files]]
-file = "README.md"
-hash = "a252e5df793904a0f2da25dc816602994161178b2a6a863cd7b23c2c000ab6be"
+files = []
