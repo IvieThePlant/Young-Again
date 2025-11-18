@@ -6,11 +6,11 @@ hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "b098789955721d7978854b705ea82efccc99d6e3cd509b4f5972a1d39044e264"
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
+file = "mods/jei.pw.toml"
+hash = "b098789955721d7978854b705ea82efccc99d6e3cd509b4f5972a1d39044e264"
 metafile = true
