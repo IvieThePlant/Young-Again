@@ -10,6 +10,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/attribute-tooltip-fix.pw.toml"
+hash = "78ea25f1c90f80a44a6828f6add580a54d64d111925d6883c8aa98d049c49996"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
 metafile = true
