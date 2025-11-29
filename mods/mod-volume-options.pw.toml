@@ -1,0 +1,13 @@
+name = "Mod Sound Volume Options"
+filename = "mvo76-forge-1.0.8-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SNHwFOKm/versions/aEayMqf2/mvo76-forge-1.0.8-1.20.1.jar"
+hash-format = "sha512"
+hash = "87e3c1a804995ab8b93b4ada5523beaacb5e7cba816803161ab7d4d83b0ac545849d8e7ee3983dd4932e04ad8667f86e29e7ebd93557bf39d5d35fb9b4d847c5"
+
+[update]
+[update.modrinth]
+mod-id = "SNHwFOKm"
+version = "aEayMqf2"

@@ -1,0 +1,13 @@
+name = "Info+ 📑"
+filename = "infoplus-1.0.1-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oRgKGxhT/versions/Q6dI6Qdn/infoplus-1.0.1-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "2899f3428b9e7f1f970d649b607c9f90e8497d78ca7d84c4bcc4527fda0d845e181829a0f10beb30cf536004319b15415b079711dd73f4f8c1637f59a2ef7294"
+
+[update]
+[update.modrinth]
+mod-id = "oRgKGxhT"
+version = "Q6dI6Qdn"
