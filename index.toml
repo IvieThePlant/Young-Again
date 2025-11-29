@@ -165,6 +165,11 @@ hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
+file = "mods/shield-banner-fix.pw.toml"
+hash = "bf227a8d1bafde9f421807f4557d7012cd850f1795e3fa5084911a82dc31961e"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
