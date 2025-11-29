@@ -80,6 +80,11 @@ hash = "50ec52c5c84ffb604eacdd19b27a5660f6f2e8365b168f108b68a6ccc96fa8ee"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
+metafile = true
+
+[[files]]
 file = "mods/infoplus.pw.toml"
 hash = "f06eb9c373ff0ead37f4bf248721aed8b7ebc18206774b02023d639d514f756a"
 metafile = true
