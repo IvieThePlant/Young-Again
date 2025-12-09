@@ -39,11 +39,6 @@ hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
 metafile = true
 
 [[files]]
-file = "mods/c2mef.pw.toml"
-hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
-metafile = true
-
-[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "bc820e991af00d765945397d130e2a9e2592148265041cea8754adabf746bd88"
 metafile = true
