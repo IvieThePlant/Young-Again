@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/caverns_and_chasms-client.toml"
+hash = "9ad2f9e7b481aa7d971ab68f7f1fc4bf8ce2787d75f03b5f75c4a82cfb185509"
+
+[[files]]
+file = "config/caverns_and_chasms-common.toml"
+hash = "0a1540d9f34b93af0b955f34471fe4ffd731649dad3e6c632c27384d4793e523"
+
+[[files]]
 file = "config/clienttweaks-common.toml"
 hash = "09404b0058e8732cfcb50fc2edafe3ce948c3b2b5a95ce5fbbede10583c35057"
 
@@ -36,6 +44,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
+metafile = true
+
+[[files]]
+file = "mods/caverns-and-chasms.pw.toml"
+hash = "77eb951aea38d711bb8bddd89b66b65a2ce7423d93525843a409b57e03f02fa1"
 metafile = true
 
 [[files]]
