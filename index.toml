@@ -28,6 +28,11 @@ hash = "a1524e5a45200daf351ac7d013db62086bb249b57632f29088d46dd7e10defc5"
 metafile = true
 
 [[files]]
+file = "mods/archeologicalmod.pw.toml"
+hash = "a7042fd7baee159623ba657601388f7c2d3f66a1cacef751c86c2aa87f9e1b9b"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
@@ -45,6 +50,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "1b31cb793a692d9f692b233eab37e6fed156f7b05c4a2080a75ea6c06c38c178"
+metafile = true
+
+[[files]]
+file = "mods/better-archeology.pw.toml"
+hash = "735631eac59208282e2e9487466ba3c18e42388f1b521b30fc8848a2b47fb229"
 metafile = true
 
 [[files]]
@@ -295,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
 metafile = true
 
 [[files]]
