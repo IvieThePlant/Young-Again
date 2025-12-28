@@ -540,11 +540,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "7b411f636c4a61db20882904e79625750ff1230c83763a0a426c04a8bbf8d7f1"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "50ec52c5c84ffb604eacdd19b27a5660f6f2e8365b168f108b68a6ccc96fa8ee"
 metafile = true
@@ -850,11 +845,6 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
-file = "mods/particle-interactions-forgified.pw.toml"
-hash = "658759a0936d29a0d0a02b1b606f80ff1d0fa3fe079fda1999d8ba73d00658cc"
-metafile = true
-
-[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "e948bfb3b188043ae7e8a7d9c1014015420fb51c3cc84bdc4b319b647166d7f3"
 metafile = true
@@ -1142,11 +1132,6 @@ metafile = true
 [[files]]
 file = "mods/tide.pw.toml"
 hash = "04c81e09d55ec32521ee7921d86f8d98ab0e7981974bc0c0bfd39a849166c1ca"
-metafile = true
-
-[[files]]
-file = "mods/tool-trims.pw.toml"
-hash = "405d5102dc84d1e3a041a5c12e7be8ec970b5a5fc89b30503b8c840464015c9d"
 metafile = true
 
 [[files]]
