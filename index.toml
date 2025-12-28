@@ -6,7 +6,7 @@ hash = "09404b0058e8732cfcb50fc2edafe3ce948c3b2b5a95ce5fbbede10583c35057"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
-hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
+hash = "6f056e3c3b98d99d3767d0ff54b504cc6e2b695cd6ee796602b09db771d42a99"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-interactions-forgified.pw.toml"
-hash = "658759a0936d29a0d0a02b1b606f80ff1d0fa3fe079fda1999d8ba73d00658cc"
+hash = "a05e73f56c7454583b598944edb4b0f476794ae0b2183b1514cee6e77c332f17"
 metafile = true
 
 [[files]]
@@ -977,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/shield-banner-fix.pw.toml"
 hash = "bf227a8d1bafde9f421807f4557d7012cd850f1795e3fa5084911a82dc31961e"
+metafile = true
+
+[[files]]
+file = "mods/shield-expansion.pw.toml"
+hash = "dcf41b44fb2b0f4e393e2f9a41017aa9b10bd21e804b03218458a07ba70221ca"
 metafile = true
 
 [[files]]
