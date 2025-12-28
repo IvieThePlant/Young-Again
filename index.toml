@@ -208,6 +208,11 @@ hash = "4e721a3949621080440a950b4aba930b91735455238b1ea4f01e25dba3e59c23"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "131e4f8e6ea05f47b2167852ad319d15a004e951b49aba54cbb6306570319cea"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
 metafile = true
@@ -255,6 +260,21 @@ metafile = true
 [[files]]
 file = "mods/terraphilic.pw.toml"
 hash = "24ad43909595ac26f2c2c49d8528edf5c0d35655e20c24b1981221e441c0e91b"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "beca04dfa133d41a193ecd5566a4448beeacc7db078d17d4f0149d0856168ec0"
+metafile = true
+
+[[files]]
+file = "mods/vb-compat.pw.toml"
+hash = "4369735ee185b9e7ea592a2791151c1134aafc3832393c1d17dfe68c4c31afe9"
+metafile = true
+
+[[files]]
+file = "mods/vb-mob-variants-compat.pw.toml"
+hash = "ce2c77ea4776ab4945d50f8eb286d673abb946320d2aa8a3b956b58e4353fc50"
 metafile = true
 
 [[files]]
