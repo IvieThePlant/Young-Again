@@ -165,11 +165,6 @@ hash = "5176d64e18e33614e1c5ea744c95786379ee05a5905bbfff833b734931207ae7"
 metafile = true
 
 [[files]]
-file = "mods/better-than-mending.pw.toml"
-hash = "ec4479b3c028e0fd23f52b08d1f29296adcc279986598caa6f85b94d2e72c1c6"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
 metafile = true
@@ -717,6 +712,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "ade41e4315735aa9116a0222b332e03d3f8df6eea301764d40d0bdc40f5e8689"
+metafile = true
+
+[[files]]
+file = "mods/mendingremover.pw.toml"
+hash = "9d2a194a09f493b3044c268f9ec4159e38522308b053dcf60e6d3538500f721c"
 metafile = true
 
 [[files]]

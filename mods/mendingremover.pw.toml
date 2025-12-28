@@ -1,0 +1,13 @@
+name = "MendingRemover"
+filename = "mendingremover-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y0sPJyjX/versions/I1oSWJHD/mendingremover-1.20.1-1.0.jar"
+hash-format = "sha512"
+hash = "2993f98571b217470f4515a972dfa4cb81547665b953117801ddd133dcfb20bc9479bcc19e02ab921f26585061040e698bf0c2459d39a2ab9b2d309b687acd64"
+
+[update]
+[update.modrinth]
+mod-id = "y0sPJyjX"
+version = "I1oSWJHD"
