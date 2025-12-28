@@ -1,12 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/biome_replacer.properties"
+hash = "6a6de226a101c434bddcfff32be27ef5c01a593496ac13c9b99a249a62c99371"
+
+[[files]]
 file = "config/clienttweaks-common.toml"
 hash = "09404b0058e8732cfcb50fc2edafe3ce948c3b2b5a95ce5fbbede10583c35057"
 
 [[files]]
 file = "config/openloader/data/young-again-recipes/pack.mcmeta"
 hash = "6ae9e488b417b68129fc87cedce6439d60487458a6a767aa43c208ac20912e4d"
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "a1524e5a45200daf351ac7d013db62086bb249b57632f29088d46dd7e10defc5"
+metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -36,6 +45,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "28358fe53c22695b3bf1f93ac2225c46fe3525918b7b993ac36e68a7f0a16fe8"
+metafile = true
+
+[[files]]
+file = "mods/biome-replacer.pw.toml"
+hash = "428b6dc9b3394cbd047f5d73d6d3ea8f8694194ea2b03f48d6e9086c71280507"
 metafile = true
 
 [[files]]
@@ -76,6 +90,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "50ec52c5c84ffb604eacdd19b27a5660f6f2e8365b168f108b68a6ccc96fa8ee"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
@@ -181,4 +200,19 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "23c3dddf24d8d65b2ad798247389647b47e10439dca2c46b1c958a8d2b0a1841"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
+metafile = true
+
+[[files]]
+file = "mods/terraphilic.pw.toml"
+hash = "24ad43909595ac26f2c2c49d8528edf5c0d35655e20c24b1981221e441c0e91b"
 metafile = true
