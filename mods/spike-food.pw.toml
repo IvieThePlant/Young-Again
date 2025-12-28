@@ -1,0 +1,13 @@
+name = "Spike Food"
+filename = "spikefood-1.20.1-1.0.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5c2cdc295c4950ae9cdcad7581149bbede92a67b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6756316
+project-id = 1302752

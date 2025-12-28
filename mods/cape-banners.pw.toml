@@ -1,0 +1,13 @@
+name = "Cape Banners"
+filename = "capebanner-1.20.1-Forge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "52f7b604bafc8ef00b0dce6f5fa6a769d9b21616"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7112842
+project-id = 1366257

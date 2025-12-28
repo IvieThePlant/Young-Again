@@ -1,0 +1,13 @@
+name = "Size Shifting Potions"
+filename = "sizeshiftingpotions-1.7.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rfj2v0X6/versions/kcFeja97/sizeshiftingpotions-1.7.1-forge.jar"
+hash-format = "sha512"
+hash = "3d8ad618d52ec1e47f3f8856dadb6babeb974b782e9d923f6ef4724088b4ac7e8e5ca58d3ae09a9f75e24d8c23f6062fb93a35f6ba43232f5dfff32c1d646979"
+
+[update]
+[update.modrinth]
+mod-id = "rfj2v0X6"
+version = "kcFeja97"

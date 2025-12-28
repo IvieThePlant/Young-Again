@@ -1,0 +1,13 @@
+name = "Back Weapon Slot"
+filename = "curiosbackslot-4.0.6-nc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PQ5n5B9e/versions/M4sjtoYA/curiosbackslot-4.0.6-nc.jar"
+hash-format = "sha512"
+hash = "02d82b768509cb7e9a8748bb81331b486de38123de4394107f9824800d1ab21f108506550fd39e5463aefc2f7c3d34564eed973d7c4bae1e9136b94a807fdff0"
+
+[update]
+[update.modrinth]
+mod-id = "PQ5n5B9e"
+version = "M4sjtoYA"

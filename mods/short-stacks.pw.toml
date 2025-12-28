@@ -1,0 +1,13 @@
+name = "Short Stacks"
+filename = "shortstacks-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f3559adbcbb0cb668200b45c477b9da2607b12c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6996095
+project-id = 580100

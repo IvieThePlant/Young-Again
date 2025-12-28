@@ -1,0 +1,13 @@
+name = "Easy transportation of players in a mafia style"
+filename = "ETOPIAMS-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/w3cshn5k/versions/gqM5LZBX/ETOPIAMS-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "13d4f4cb5d4eb0c3247b091ec2833b928b17eae4574d1852f6f454edbfc1ba4c0dcee5bfab22bbff9079860ce6505cd8648cbc695f2eb6ea82ea61f7f7e30743"
+
+[update]
+[update.modrinth]
+mod-id = "w3cshn5k"
+version = "gqM5LZBX"

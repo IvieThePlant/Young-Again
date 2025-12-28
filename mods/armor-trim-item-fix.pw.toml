@@ -1,0 +1,13 @@
+name = "Armor Trim Item Fix"
+filename = "ArmorTrimItemFix-forge-1.20.1-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kIhxG5zE/versions/vKAzdnbB/ArmorTrimItemFix-forge-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "c183756dbbf173700edabe4b824c57d8ffb50663a676e37bcc866d42f419c181b727f1f0f0e98f0fed0f50d66e84b625b91baad356f3e2b5cf1a23e0fca3395d"
+
+[update]
+[update.modrinth]
+mod-id = "kIhxG5zE"
+version = "vKAzdnbB"

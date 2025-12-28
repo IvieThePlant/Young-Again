@@ -1,0 +1,13 @@
+name = "Advancement Screenshot"
+filename = "advancementscreenshot-1.20.1-5.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lU8KbfG2/versions/HTffFr5j/advancementscreenshot-1.20.1-5.0.jar"
+hash-format = "sha512"
+hash = "5562cf6623a09920422432d76fe8e9c525104603edd4ab73d5b5ca318b8a54130a137b02b9b1b6bacf5d287ae2bf6b0bdce2fc12de59ac40aef957f3b5fba208"
+
+[update]
+[update.modrinth]
+mod-id = "lU8KbfG2"
+version = "HTffFr5j"

@@ -1,0 +1,13 @@
+name = "Rain should extinguish campfires"
+filename = "rsec-1.1-1.20.1-forge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/XFk4dAJX/versions/q5UN6c6o/rsec-1.1-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "17fd3c7e9b6b899e0908cc7a5666b263af0b626baea68b858bf6a6faf92625d8c85bb03ff5a26f5951bb300f3b1cdf4b80b608dafcfec61c55ae55b0b297048d"
+
+[update]
+[update.modrinth]
+mod-id = "XFk4dAJX"
+version = "q5UN6c6o"

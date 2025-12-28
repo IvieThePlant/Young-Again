@@ -1,0 +1,13 @@
+name = "Arrow Collector"
+filename = "arrowcollector-mc1.18-1.20-v0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ez00YFnH/versions/CCpDpUQX/arrowcollector-mc1.18-1.20-v0.0.2.jar"
+hash-format = "sha512"
+hash = "c567835513339d921dc762b68e24efccdef2d9478d3756eb6a985c43fc740f336d1804f56a82f243a4a938e3a379eddc5dff03d35097079c82191f0afd5970eb"
+
+[update]
+[update.modrinth]
+mod-id = "ez00YFnH"
+version = "CCpDpUQX"

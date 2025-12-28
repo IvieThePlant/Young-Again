@@ -1,0 +1,13 @@
+name = "Armorer's Bane"
+filename = "Armorer's Bane v.1.1.0 (1.20.1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OxkGRB6S/versions/HJ7iGat6/Armorer%27s%20Bane%20v.1.1.0%20%281.20.1%29.jar"
+hash-format = "sha512"
+hash = "8ed238a5508a9581fab5d190c381438d1dc523e1526c1cf186c16e36e9a8fa2ed705744247899b900fc55d0988a5f97d2f0db6a03e905c842cc63d3b5b05e41d"
+
+[update]
+[update.modrinth]
+mod-id = "OxkGRB6S"
+version = "HJ7iGat6"

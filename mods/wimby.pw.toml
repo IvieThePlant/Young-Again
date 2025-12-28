@@ -1,0 +1,13 @@
+name = "WIMBY - Where Is My Block, Yo!"
+filename = "wimby-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OSvudXCq/versions/CjfRG5Vu/wimby-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "14f643d8a11f19476eeefce665fd2217def2e1b53e4dd1c05389d1d62587406b2b82735edec1d1d22e1d32a2272fb34a7f7251a43793139ad8c30cb8e134da70"
+
+[update]
+[update.modrinth]
+mod-id = "OSvudXCq"
+version = "CjfRG5Vu"
