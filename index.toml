@@ -53,6 +53,16 @@ hash = "428b6dc9b3394cbd047f5d73d6d3ea8f8694194ea2b03f48d6e9086c71280507"
 metafile = true
 
 [[files]]
+file = "mods/blueprint.pw.toml"
+hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
+metafile = true
+
+[[files]]
+file = "mods/caverns-and-chasms.pw.toml"
+hash = "77eb951aea38d711bb8bddd89b66b65a2ce7423d93525843a409b57e03f02fa1"
+metafile = true
+
+[[files]]
 file = "mods/client-tweaks.pw.toml"
 hash = "bc820e991af00d765945397d130e2a9e2592148265041cea8754adabf746bd88"
 metafile = true
