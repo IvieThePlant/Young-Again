@@ -890,6 +890,11 @@ hash = "5b10404c7917952a2d651f353b99dea51f85df20606b4576d0552ab9dea6ce62"
 metafile = true
 
 [[files]]
+file = "mods/rest-api.pw.toml"
+hash = "9b3dfdb776d012b0377582e2536b5c6e6d659b58949939479feebdc1b229edc0"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "ca5d254eded2a38a5db675f464d2fe355c633a2f774b9d4e2937163639a8b98e"
 metafile = true
