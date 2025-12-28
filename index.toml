@@ -143,6 +143,11 @@ hash = "bafe58fe28176834119f166d3f5df52bcd9372dec177647c82b9699ce5e224dd"
 metafile = true
 
 [[files]]
+file = "mods/immersive-weathering.pw.toml"
+hash = "0a83314a5c0d8d8f356bd3a8a7a57a0b09133855a59c8ec6791a470c174d57ee"
+metafile = true
+
+[[files]]
 file = "mods/infoplus.pw.toml"
 hash = "f06eb9c373ff0ead37f4bf248721aed8b7ebc18206774b02023d639d514f756a"
 metafile = true
@@ -195,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "c00cfcd4274f3055ddf910c8c1bbf6a5807ac05e8a42583c26cdbd839bacbe23"
 metafile = true
 
 [[files]]
