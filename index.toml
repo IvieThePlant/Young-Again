@@ -825,6 +825,11 @@ hash = "131e4f8e6ea05f47b2167852ad319d15a004e951b49aba54cbb6306570319cea"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+metafile = true
+
+[[files]]
 file = "mods/portfolio.pw.toml"
 hash = "102df2425666b77f424a7e7de6bd0e7d5fe946360b3990f2ec8c22a616368bc2"
 metafile = true
