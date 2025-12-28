@@ -128,6 +128,11 @@ hash = "17a39f71985dd963c15fe6ed5acf7cff675c7d5d0a8508a2664767c911faea51"
 metafile = true
 
 [[files]]
+file = "mods/golem-overhaul.pw.toml"
+hash = "bafe58fe28176834119f166d3f5df52bcd9372dec177647c82b9699ce5e224dd"
+metafile = true
+
+[[files]]
 file = "mods/infoplus.pw.toml"
 hash = "f06eb9c373ff0ead37f4bf248721aed8b7ebc18206774b02023d639d514f756a"
 metafile = true
@@ -215,6 +220,16 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
 metafile = true
 
 [[files]]
