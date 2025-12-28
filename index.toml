@@ -440,6 +440,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
 file = "mods/emoji-type.pw.toml"
 hash = "3faf2fe6e27804bb15a0217167d8880e05e24d3b5bfff6f3241721875f0eb0ac"
 metafile = true
