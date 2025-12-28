@@ -4,6 +4,6 @@
     "spawnCoalGolems": true,
     "spawnHayGolems": true,
     "spawnHoneyGolems": true,
-    "spawnSlimeGolems": true,
+    "spawnSlimeGolems": false,
     "spawnTerracottaGolems": true
 }

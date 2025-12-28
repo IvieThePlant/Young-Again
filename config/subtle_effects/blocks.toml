@@ -71,7 +71,7 @@ decoratedPotsSpawnBubbles = true
 openingBarrelsSpawnsBubbles = true
 openingChestsSpawnsBubbles = true
 chestsOpenRandomlyUnderwater = true
-randomChestOpeningNeedsSoulSand = false
+randomChestOpeningNeedsSoulSand = true
 dispenseItemBubbles = true
 rainIncreasesLeavesSpawningParticles = true
 

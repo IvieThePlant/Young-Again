@@ -51,7 +51,7 @@ adjustNameTagWhenSleeping = true
 
 [humanoids]
 drowningBubblesDisplayType = "DEFAULT"
-drowningBubblesDensity = 3
+drowningBubblesDensity = 1
 drowningBubbleAlpha = 1.0
 forceDrowningBubblesToColumn = false
 potionRingsDisplayType = "DEFAULT"
@@ -63,16 +63,16 @@ NPCsHavePotionRings = true
 [humanoids.frostyBreath]
 displayType = "DEFAULT"
 alpha = 0.5
-waitTime = 60
+waitTime = 100
 seasons = "DEFAULT"
 additionalBiomes = [  ]
 
 [humanoids.player]
-enableBreathingEffectsInCreative = true
-stomachGrowlingThreshold = 6
+enableBreathingEffectsInCreative = false
+stomachGrowlingThreshold = 3
 stomachGrowlingVolume = 1.0
-stomachGrowlingWaitTime = 15
-heartBeatingThreshold = 6
+stomachGrowlingWaitTime = 30
+heartBeatingThreshold = 2
 heartbeatVolume = 1.0
 heartBeatingWaitTime = 3
 
@@ -87,7 +87,7 @@ mobFell = true
 landMaceAttack = true
 playerRunning = true
 mobRunning = true
-playerRunningRequiresSpeed = false
+playerRunningRequiresSpeed = true
 
 [burning]
 smokeType = "DEFAULT"

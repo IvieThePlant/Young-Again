@@ -1,9 +1,0 @@
-
-#Options for Crowmap.
-[Tooltip]
-	#Show a tooltip explaining Crowmap is installed?
-	"Show Tooltip" = true
-	#If 'true', the 'Hold Shift' indication will disappear after
-	#you look at the tooltip once.
-	"Tooltip Self Destructs" = true
-

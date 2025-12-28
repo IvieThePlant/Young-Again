@@ -5,7 +5,7 @@
 #If enabled, block image and name will be displayed.
 "Display blocks" = true
 #If enabled the namespace of blocks and entities will be displayed
-"Display namespace" = true
+"Display namespace" = false
 #Change the horizontal position of the HUD (center alignment). Default 0.09.
 #Range: 0.0 ~ 1.0
 "Horizontal position" = 0.5
