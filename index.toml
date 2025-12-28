@@ -68,6 +68,26 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "969c1659c859067215f5e76d716b050bc07e8959ce1f9b377505f95e7c80af14"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
+hash = "39f5723b02609821dad037669fd0731943dc829860e83439d68f5085b7460243"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
+hash = "b73799f443bda6d85176d9cfa32b1beda2e2e0a031dd75af86b117c1a59b8534"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
@@ -83,6 +103,11 @@ hash = "7b32032b0892b53e1e5daf5410b78b4d98b7bdcbe2184f1d643098de36674865"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -90,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "50ec52c5c84ffb604eacdd19b27a5660f6f2e8365b168f108b68a6ccc96fa8ee"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "1030e18f2e875dfdf39de82b823e1dfe6009f21f1aaad338137d3a90504e2f7e"
 metafile = true
 
 [[files]]
@@ -115,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
+metafile = true
+
+[[files]]
+file = "mods/lukis-woodland-mansions.pw.toml"
+hash = "06ac20ff39b8a9ed929de28bdc53bc2a3071a16a5e012b8f94ac5aea57f6cad2"
 metafile = true
 
 [[files]]
@@ -183,6 +218,11 @@ hash = "5b10404c7917952a2d651f353b99dea51f85df20606b4576d0552ab9dea6ce62"
 metafile = true
 
 [[files]]
+file = "mods/ribbits.pw.toml"
+hash = "ca5d254eded2a38a5db675f464d2fe355c633a2f774b9d4e2937163639a8b98e"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -215,4 +255,59 @@ metafile = true
 [[files]]
 file = "mods/terraphilic.pw.toml"
 hash = "24ad43909595ac26f2c2c49d8528edf5c0d35655e20c24b1981221e441c0e91b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "532f07775974b695733981b2548859d3bc76c743781a5da5035d40fd6e485ab0"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "c35112cced2eec8e5782c5c4327ae31bce16cc1356c75e52000053e890e0f0c1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "302d69d833264022aa7ff781dbcde7f60f3c9e3021881b29f6f59223c36579c8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "8c8b596c0e8f7366e30ee6edbd591fba9ef16741c25a505e64de9a299cd72e80"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "05f825a655bc94af6ab592d13c396b60c818cfc65ff2528e206e7a40a180e210"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "60511ad5628ed8e45a552de171c3330bdcdbd5f86f7047e26b505b7a8c824a47"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "18dfe8ada0af83eb86d4b8ff8e202479b7c2ab1ee1f894d9bb07cda1744e8981"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e25c97f72666319efdd79eafc22301376446912cbb8ac14339c428c98e3ce1b5"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "f759c09a8fef97038be0c9daaee09e5252a3ddaf56870cabc9af11e5fced97d4"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "743e4ac214adfb6d757f50987cbdcb449bf92d075bcebf7f7a739d8cd1d2e2f1"
 metafile = true
