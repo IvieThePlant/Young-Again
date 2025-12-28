@@ -1,0 +1,13 @@
+name = "Particle Interactions Forgified"
+filename = "eg_particle_interactions-forge-1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/z0nJlqgw/versions/56jpCr65/eg_particle_interactions-forge-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "45c7386f505e6e839a28866337bcc03f3407c57133d755448e3bf08a5599c910d2b39810b28ed71d210dec9de355b7d734bf3ef07ec2bcf7c43d8e63aac2273a"
+
+[update]
+[update.modrinth]
+mod-id = "z0nJlqgw"
+version = "56jpCr65"
