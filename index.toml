@@ -5,11 +5,6 @@ file = "config/clienttweaks-common.toml"
 hash = "09404b0058e8732cfcb50fc2edafe3ce948c3b2b5a95ce5fbbede10583c35057"
 
 [[files]]
-file = "mods/advancement-count.pw.toml"
-hash = "b502a1a3010deaecdf4834d4b34879a6553ff02577f819bbb47645526f0020b3"
-metafile = true
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "7f243cdb7d52214593d8155a12de24d4992a781a94597eb09bf3ffb3396e5eb5"
 metafile = true
