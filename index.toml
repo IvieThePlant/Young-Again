@@ -150,11 +150,6 @@ hash = "52b4f29eb4a4392ef085617292842dc9fc84d86c318da5ce470b24eab77f6bdc"
 metafile = true
 
 [[files]]
-file = "mods/better-mob-combat.pw.toml"
-hash = "aa10f3907836e7291289361822d67eb643bce2f2272260264d06187f7c6a7827"
-metafile = true
-
-[[files]]
 file = "mods/better-modlist.pw.toml"
 hash = "2c507d0b6da5de28db21e8d803fffbe588a2ab17c053b71da1e5ff49786c1cdb"
 metafile = true
