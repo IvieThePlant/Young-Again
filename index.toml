@@ -566,7 +566,7 @@ metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
-hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
+hash = "16b138abe683fe5f2cea87b81871b31b2d36725a8377abfc0a198db37c40395f"
 metafile = true
 
 [[files]]
