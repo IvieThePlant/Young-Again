@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-nether-map.pw.toml"
-hash = "5176d64e18e33614e1c5ea744c95786379ee05a5905bbfff833b734931207ae7"
+hash = "eab3bde12ebbd1f0f30cc613057a5530d0619e7bf4f83d03c0799d8ac2181706"
 metafile = true
 
 [[files]]
@@ -941,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/shield-expansion.pw.toml"
-hash = "dcf41b44fb2b0f4e393e2f9a41017aa9b10bd21e804b03218458a07ba70221ca"
+hash = "052545db730d5a500caeede7588dd97046aff0c7755c62945aa7d9fac435a74c"
 metafile = true
 
 [[files]]
