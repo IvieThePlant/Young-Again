@@ -847,6 +847,11 @@ hash = "f5e19eff418ff12946e7cd4f10e16508ba7261c9cd9685e3d87016fa21c127d1"
 metafile = true
 
 [[files]]
+file = "mods/multiplayer-server-pause.pw.toml"
+hash = "a3685a48dc5ec1d44c8a5343cca02d1ebbbe034ac3d6e11583345f0dd50d6411"
+metafile = true
+
+[[files]]
 file = "mods/nether-depths-upgrade.pw.toml"
 hash = "a94d2977cef31fe7eaa03e835d93a0e32786018bd0d4581bf44eb5b440ee8ada"
 metafile = true
