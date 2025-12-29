@@ -293,6 +293,11 @@ hash = "32d390c03b0a2f7a12187b2ebc1eb08a423f4d65d3f6bf1282c583b891353791"
 metafile = true
 
 [[files]]
+file = "mods/c2mef.pw.toml"
+hash = "92f000167f0c5665fa6f4a351889a58db7235ed8ebdb086a21a28a7024d347ad"
+metafile = true
+
+[[files]]
 file = "mods/cape-banners.pw.toml"
 hash = "c46d9da67e3ac094e6a9bd6aca6c8cdfe221636d05ce73cc554a0404b355b5df"
 metafile = true
