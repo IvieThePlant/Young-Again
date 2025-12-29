@@ -65,6 +65,10 @@ file = "config/particlerain.json"
 hash = "a1911b564e0ac58bc63b834fbbe326eb4ef8c9c6d55eae400ca4a28208a7133e"
 
 [[files]]
+file = "config/serverpause-common.toml"
+hash = "ccac76a1eb848670646fe7df51414502ec47c6ef3d7d163158cf29013f96f5c6"
+
+[[files]]
 file = "config/subtle_effects/blocks.toml"
 hash = "c405b865e4fbcd127901f720de53788b01ae1f630300827020913b87fd2ba058"
 
@@ -95,6 +99,10 @@ hash = "fc66e105d9cf16199fa5dc80a0d4a577b8dc96c6e20f982d621ec10681d888ff"
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "8c784566272b922b5fb8d35501ab45ddae7b35c9a4b408994d9018ef5c05f9b7"
+
+[[files]]
+file = "defaultconfigs/hourglass-server.toml"
+hash = "57d056a54b7654f2a8382ade24aaf9a841f89b2fe9371f9fafda9a61c0eb3a44"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
@@ -654,6 +662,11 @@ metafile = true
 [[files]]
 file = "mods/horseman.pw.toml"
 hash = "c6ff718b4a4f132813f269ddb46d5696036c6b07ccd680f7801569b7f81419d2"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.pw.toml"
+hash = "33c13017e0a59e5743ac644cf37496622a096c925b708e3bd39de676b1c2fc00"
 metafile = true
 
 [[files]]
@@ -1310,7 +1323,3 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
-
-[[files]]
-file = "touch"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
