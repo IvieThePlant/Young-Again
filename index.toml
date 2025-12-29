@@ -1255,6 +1255,11 @@ hash = "cfba7662c4a129b097b75745cbad9c6ea897756fa88136b2c72a5000d190d51d"
 metafile = true
 
 [[files]]
+file = "mods/wood_cutter.pw.toml"
+hash = "e29356f92181552af8968ffd2a51a3b88b15e1c4fafde3c8d23e0df15e2450b6"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true

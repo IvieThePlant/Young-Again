@@ -1,0 +1,13 @@
+name = "Woodcutter"
+filename = "wood_cutter-2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/M0MiYiLo/versions/hCs4Zq1s/wood_cutter-2.0.jar"
+hash-format = "sha512"
+hash = "c72bddd20b21dadd7d7396c079d658fe52f3671fd343b4fabd416d65c9174b93fc386ead52b50797b2724198dcf9d83031f5ded123f48e39005a7b7adf0c0d20"
+
+[update]
+[update.modrinth]
+mod-id = "M0MiYiLo"
+version = "hCs4Zq1s"
