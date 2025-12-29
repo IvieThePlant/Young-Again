@@ -130,7 +130,7 @@ globalExecutorParallelism = "default"
 	# This will reduce server thread load 
 	# (may cause incompatibility with other mods)
 	# 
-	asyncScheduling = "default"
+	asyncScheduling = "false"
 
 [clientSideConfig]
 

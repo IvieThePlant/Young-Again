@@ -26,7 +26,7 @@ hash = "21e560959ff787cb1d40ad1a6cf8ae9a3681ab2669d53de5a9a9a6d2b7ec24cc"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "944514ed3bcf64667be48f04a8bec92d3778b8a9f5cad5999c4a2c679a7813a5"
+hash = "42d65d4b841c6a0e2c803eb09e8c6e790129ddef65dccead0eb41782c1d332aa"
 
 [[files]]
 file = "config/caverns_and_chasms-client.toml"
