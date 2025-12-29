@@ -25,6 +25,10 @@ file = "config/biome_replacer.properties"
 hash = "21e560959ff787cb1d40ad1a6cf8ae9a3681ab2669d53de5a9a9a6d2b7ec24cc"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "944514ed3bcf64667be48f04a8bec92d3778b8a9f5cad5999c4a2c679a7813a5"
+
+[[files]]
 file = "config/caverns_and_chasms-client.toml"
 hash = "701086133c60599384033eca272260fc4935b9304d1ba4268fff6457d7075fa4"
 
