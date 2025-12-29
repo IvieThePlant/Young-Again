@@ -1,8 +1,96 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/clienttweaks-common.toml"
-hash = "09404b0058e8732cfcb50fc2edafe3ce948c3b2b5a95ce5fbbede10583c35057"
+file = "config/DistantHorizons.toml"
+hash = "b81cb9325df8bac44635547c67ad5d76e791deaba5300407361e7f6794b8c249"
+
+[[files]]
+file = "config/alexscaves-client.toml"
+hash = "db5c9fddb7816fae75ecdb86e604c97408eca8626d785b9380a0b39d68b8bd58"
+
+[[files]]
+file = "config/alexsmobs.toml"
+hash = "c944598fba0430e071cd9d57303a0f83dc1273fb6ccb3024b8dd15a81b3f2230"
+
+[[files]]
+file = "config/alexsmobsinteraction-client.toml"
+hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "e2b7d5b270fed503b22c2ad0b69a501cb76c48c7fde1daae7e38a4df06a05aa2"
+
+[[files]]
+file = "config/biome_replacer.properties"
+hash = "21e560959ff787cb1d40ad1a6cf8ae9a3681ab2669d53de5a9a9a6d2b7ec24cc"
+
+[[files]]
+file = "config/caverns_and_chasms-client.toml"
+hash = "701086133c60599384033eca272260fc4935b9304d1ba4268fff6457d7075fa4"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "ce695259bd23cb0af457fa1ad2f745aee1e45dfc4f020aba031aed3746b5b17c"
+
+[[files]]
+file = "config/durabilitytooltip-common.toml"
+hash = "84559c6bad1dfbc1d7c147acc284bc487053b9b0ebdd60a32e795b7b4527a3d3"
+
+[[files]]
+file = "config/enchantmentlevelcapindicator.json5"
+hash = "a064c771ded49edd455ee343864b885dcc8774aa10642b197f6a1a17bbdc31f7"
+
+[[files]]
+file = "config/gallery-common.toml"
+hash = "f9c06af5b63b92bbef385e331643a46e0fb300a20fd3d2fbab0ee525ac8b2eef"
+
+[[files]]
+file = "config/golemoverhaul.jsonc"
+hash = "7229cb5d2a54ed1c95aab1e4ddaf8b6ceca0864f1743326441e4211a9167c228"
+
+[[files]]
+file = "config/hardcorerevival-common.toml"
+hash = "b69c66affc707437960f192ca7c8f91de4641ad01f393f6a91cd917ee94da0ad"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "5a8c0b76a5052bcbd7d3ff97ccd530b20c8a8490685ac3fe6abe4234d6762537"
+
+[[files]]
+file = "config/particlerain.json"
+hash = "a1911b564e0ac58bc63b834fbbe326eb4ef8c9c6d55eae400ca4a28208a7133e"
+
+[[files]]
+file = "config/subtle_effects/blocks.toml"
+hash = "c405b865e4fbcd127901f720de53788b01ae1f630300827020913b87fd2ba058"
+
+[[files]]
+file = "config/subtle_effects/entities.toml"
+hash = "fac4b9a7f9846220c0e7573fba17ea39fd1e3b83dd29a92fd5f45cd87d654e22"
+
+[[files]]
+file = "config/subtle_effects/items.toml"
+hash = "bd00d8134e13054e066075099c10f6124b87fab0309f57c8957ed9c1726d7b9c"
+
+[[files]]
+file = "config/tide.toml"
+hash = "aa6a0421df68a9ae70c8997818b4c3ed5072e09e671c55993a6c3418e43fff2e"
+
+[[files]]
+file = "config/usefulspyglass-client.toml"
+hash = "71649f4b8eed0af7e2ec5b10c71a2cd58d13142d046f6316a765a58069c69ec4"
+
+[[files]]
+file = "config/usefulspyglass-common.toml"
+hash = "89e85b87d2033b9d1aab2708c317b39b8da246b258fabb3ffcc9d1427e26749e"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "fc66e105d9cf16199fa5dc80a0d4a577b8dc96c6e20f982d621ec10681d888ff"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "8c784566272b922b5fb8d35501ab45ddae7b35c9a4b408994d9018ef5c05f9b7"
 
 [[files]]
 file = "mods/advancement-plaques.pw.toml"
