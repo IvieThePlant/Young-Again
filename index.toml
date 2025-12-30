@@ -1000,11 +1000,6 @@ hash = "b727e9c00cb3dcd25508b398c3f12a72a5c28d96b5119d4cc38f518a86f855d4"
 metafile = true
 
 [[files]]
-file = "mods/refined-advancements.pw.toml"
-hash = "9673f00ed6f99c34b747ae6fe78b5eb305813f0ea34edb1cdc0114e443b58f42"
-metafile = true
-
-[[files]]
 file = "mods/reimagined-trims.pw.toml"
 hash = "a89bf75df01d89449fdb3c211cdb1f82111bd617231a9d3bfe61c0d4b4aa09e7"
 metafile = true
