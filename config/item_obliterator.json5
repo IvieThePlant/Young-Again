@@ -16,9 +16,7 @@
   // Items here will be unusable completely
   //    Example: minecraft:diamond
   "blacklisted_items": [
-    "vs_eureka:engine",
-    "vs_eureka:ballast",
-    "!vs_eureka:.*balloon"
+    "examplemod:example_item"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
