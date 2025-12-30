@@ -21,6 +21,10 @@ file = "config/bettercombat/fallback_compatibility.json"
 hash = "e2b7d5b270fed503b22c2ad0b69a501cb76c48c7fde1daae7e38a4df06a05aa2"
 
 [[files]]
+file = "config/betterf3.toml"
+hash = "6137e91786fdffac711e122ad1dcc6ec975d00c190e190ef8626667b6d31324d"
+
+[[files]]
 file = "config/biome_replacer.properties"
 hash = "21e560959ff787cb1d40ad1a6cf8ae9a3681ab2669d53de5a9a9a6d2b7ec24cc"
 
