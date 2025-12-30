@@ -62,7 +62,7 @@ hash = "15b8e2f149872db5cfa712c757c214c0d4203596e2d2e204666bb198303f2021"
 
 [[files]]
 file = "config/item_obliterator.json5"
-hash = "a2231df804d394ebea82517a8a1c0f586f4816d818ac9bd561438507294080ba"
+hash = "6a490a41dea6e9f3a1b9edae3b06375af005b93392c5306e5fa1ccbe326a04f6"
 
 [[files]]
 file = "config/jei/jei-client.ini"
@@ -590,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c7dfdcddf32a63084e0b54679e33378769bc4f48bd97f006008405da5e6df2ba"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "0936c013564a5f4bac109d56a439d0453e52938cccb7f5b4100bd90d56122071"
 metafile = true
 
 [[files]]
@@ -1260,6 +1265,11 @@ metafile = true
 [[files]]
 file = "mods/useful-spyglass.pw.toml"
 hash = "dba551bf6c2c2a89aab55adc4885abd89262a4c7985f303997bc6b136d52b6d7"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "752beea8634d215652b339eef69d592a647462b80654feaaf44b79fc4cbb4f6d"
 metafile = true
 
 [[files]]

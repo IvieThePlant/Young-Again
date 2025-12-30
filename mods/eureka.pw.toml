@@ -1,0 +1,13 @@
+name = "Eureka! Ships! for Valkyrien Skies (Forge/Fabric)"
+filename = "eureka-1201-1.5.3-beta.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EO8aSHxh/versions/z2iRvMpj/eureka-1201-1.5.3-beta.4.jar"
+hash-format = "sha512"
+hash = "6573dcd380429fa9b83d62ad6e2170899ccfc9b900e81bf71e611ec0ca2162360c40389fd51b72eb2d087c3f3c308b5018275e7bda2d8ff86ef3c277e145c5af"
+
+[update]
+[update.modrinth]
+mod-id = "EO8aSHxh"
+version = "z2iRvMpj"
