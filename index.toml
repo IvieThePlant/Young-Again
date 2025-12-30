@@ -57,6 +57,10 @@ file = "config/hardcorerevival-common.toml"
 hash = "b69c66affc707437960f192ca7c8f91de4641ad01f393f6a91cd917ee94da0ad"
 
 [[files]]
+file = "config/immersive_melodies.json"
+hash = "15b8e2f149872db5cfa712c757c214c0d4203596e2d2e204666bb198303f2021"
+
+[[files]]
 file = "config/jei/jei-client.ini"
 hash = "5a8c0b76a5052bcbd7d3ff97ccd530b20c8a8490685ac3fe6abe4234d6762537"
 
@@ -702,6 +706,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "c05c55c2b16a86f13cd737c6fa98d53404c979afdd497e8bfd669cac34b8d917"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
 
 [[files]]
