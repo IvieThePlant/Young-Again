@@ -285,6 +285,11 @@ hash = "a45bbe1f9c5947251c59bb51adfb7493e4023d5728dab1e6b8f116fdf8bf896f"
 metafile = true
 
 [[files]]
+file = "mods/black-moon.pw.toml"
+hash = "c54852730da3e3e20bdaa0c8b73f6054568c4ebb16b5d9d700d967a1e9936300"
+metafile = true
+
+[[files]]
 file = "mods/block-runner.pw.toml"
 hash = "3712b4522f5a7ae135af77bc464d39a7c15c3161c8f649c242a842bf82ac40a3"
 metafile = true
@@ -390,6 +395,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "aab86d52c9896cfcf7c0635c3c897c3dd190de84e3be9eeb726a22c5a61602ed"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
 metafile = true
@@ -447,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/dark-paintings.pw.toml"
 hash = "ed60562dd2bd718f6fc001b43f139b04b72100b3e40a63c96921d4841f1effd6"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "ee45c5b23afc9895909a97c112303fde6bf9d06102f421797b129d32cb3e917a"
 metafile = true
 
 [[files]]
@@ -552,6 +567,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-level-cap-indicator.pw.toml"
 hash = "a8e7ffabf346780dcb4ec8b2039875f280f06014696447f92007f87d890b1ff6"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "6e3de42267e18b37ba96d27a8cf0a147d427caaa95e529784ee3b44832666953"
 metafile = true
 
 [[files]]
@@ -922,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "e948bfb3b188043ae7e8a7d9c1014015420fb51c3cc84bdc4b319b647166d7f3"
+metafile = true
+
+[[files]]
+file = "mods/peaceful-moon.pw.toml"
+hash = "aa2f9067f54c29ffe07bfbcb5da29bd6caf981472f3b2dbee9bd8d7d0b5ea677"
 metafile = true
 
 [[files]]

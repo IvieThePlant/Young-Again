@@ -1,0 +1,13 @@
+name = "Peaceful Moon"
+filename = "PeacefulMoon-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cYAo8OnA/versions/VHQGASRs/PeacefulMoon-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "e7e97e8c00cd17e8b47afee9ba59bc00189302ac9468c58d6918b14ed146a6d1c57a284f00a131ab6f62d296677007e4b3fe4905d50854c6f9bd616dfa6ac11a"
+
+[update]
+[update.modrinth]
+mod-id = "cYAo8OnA"
+version = "VHQGASRs"
