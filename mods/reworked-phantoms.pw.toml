@@ -1,0 +1,13 @@
+name = "Reworked Phantoms"
+filename = "reworkedphantoms-1.2.4+mc1.19.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/WvfzCeKX/versions/KRR7tlsK/reworkedphantoms-1.2.4%2Bmc1.19.4.jar"
+hash-format = "sha512"
+hash = "f5ef0706289e0f6bdbb495c07fbff2f6360e0493af8a978cb7a98f166e34ed19b25c6a9b97d10d3215fd09eb27a2526483cb68c2e8fd523be7dbc7b9da7de22d"
+
+[update]
+[update.modrinth]
+mod-id = "WvfzCeKX"
+version = "KRR7tlsK"

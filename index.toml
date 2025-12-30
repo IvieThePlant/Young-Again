@@ -1029,6 +1029,11 @@ hash = "9b3dfdb776d012b0377582e2536b5c6e6d659b58949939479feebdc1b229edc0"
 metafile = true
 
 [[files]]
+file = "mods/reworked-phantoms.pw.toml"
+hash = "30391f6a0d26210693a6a821a5cb6b871ae03b0db2a494870c53e70cc5dd86b4"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "ca5d254eded2a38a5db675f464d2fe355c633a2f774b9d4e2937163639a8b98e"
 metafile = true
