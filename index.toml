@@ -61,6 +61,10 @@ file = "config/immersive_melodies.json"
 hash = "15b8e2f149872db5cfa712c757c214c0d4203596e2d2e204666bb198303f2021"
 
 [[files]]
+file = "config/item_obliterator.json5"
+hash = "a2231df804d394ebea82517a8a1c0f586f4816d818ac9bd561438507294080ba"
+
+[[files]]
 file = "config/jei/jei-client.ini"
 hash = "5a8c0b76a5052bcbd7d3ff97ccd530b20c8a8490685ac3fe6abe4234d6762537"
 
@@ -734,6 +738,11 @@ hash = "f06eb9c373ff0ead37f4bf248721aed8b7ebc18206774b02023d639d514f756a"
 metafile = true
 
 [[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "8d2954e230da5baa467b2851827aed41e6c7544fd2ddbb581fa177efb2bc0ffb"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "0fbcc8cf03336e6bed425e2115fc4ff1a3a05be5c655228b305e70380eb08b57"
 metafile = true
@@ -886,6 +895,11 @@ metafile = true
 [[files]]
 file = "mods/multiplayer-server-pause.pw.toml"
 hash = "a3685a48dc5ec1d44c8a5343cca02d1ebbbe034ac3d6e11583345f0dd50d6411"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "1802dcd780c6deb02fb0d9251474f221077c7c80b8d673585ab59a93f4fe2abb"
 metafile = true
 
 [[files]]
