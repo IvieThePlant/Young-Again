@@ -1377,6 +1377,11 @@ hash = "b43f507cffbcc7178b184fa63b2d74fc6b2b8103c4d299ec5633ccf1f5abdafb"
 metafile = true
 
 [[files]]
+file = "resourcepacks/back-weapon-slot-x-simply-swords-fix.pw.toml"
+hash = "8e4b11492d27e17a0eda5d5dfb3a3d482a20640f899c8d33a2620378304b6e0b"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true

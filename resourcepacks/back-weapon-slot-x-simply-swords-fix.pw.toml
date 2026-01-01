@@ -1,0 +1,13 @@
+name = "Back Weapon Slot X simply swords fix"
+filename = "simplyswords_backslotfix.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ec51936fde15a53f6b8c5475a574d4b2d9081a01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7300794
+project-id = 1399085
