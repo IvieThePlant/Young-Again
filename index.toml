@@ -487,6 +487,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "4d4bc3f85ac72b03a999650eb8e0741bbcc3257691a7940df5bb3a5830e5498b"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "354515e4c9017acf24464556a4b56f3e15d0302308d09a9fe80817b05b6e4ff5"
 metafile = true
@@ -544,11 +549,6 @@ metafile = true
 [[files]]
 file = "mods/effect-insights.pw.toml"
 hash = "fca510598b1bc50b160d699d2487717a23b43b9509952bfbe1fb31d9336e2545"
-metafile = true
-
-[[files]]
-file = "mods/effecttimerplus.pw.toml"
-hash = "1a52f666a55c8842f8c42b3f9b699b36dc08ccb570e1ce66b91994de815190f0"
 metafile = true
 
 [[files]]
@@ -754,6 +754,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "270e7deb656a87290ebe612dd7aaae35f6e353e31611ffdbd71d5ebf78dc8176"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "464489983fdf28e31487ba2cb8c653083a05e17ae34549320368af8a0cdab658"
 metafile = true
 
 [[files]]
@@ -1249,6 +1259,11 @@ metafile = true
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
 metafile = true
 
 [[files]]
