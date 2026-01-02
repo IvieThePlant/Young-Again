@@ -45,10 +45,6 @@ file = "config/durabilitytooltip-common.toml"
 hash = "84559c6bad1dfbc1d7c147acc284bc487053b9b0ebdd60a32e795b7b4527a3d3"
 
 [[files]]
-file = "config/enchantmentlevelcapindicator.json5"
-hash = "a064c771ded49edd455ee343864b885dcc8774aa10642b197f6a1a17bbdc31f7"
-
-[[files]]
 file = "config/gallery-common.toml"
 hash = "f9c06af5b63b92bbef385e331643a46e0fb300a20fd3d2fbab0ee525ac8b2eef"
 
@@ -79,6 +75,10 @@ hash = "a1911b564e0ac58bc63b834fbbe326eb4ef8c9c6d55eae400ca4a28208a7133e"
 [[files]]
 file = "config/serverpause-common.toml"
 hash = "ccac76a1eb848670646fe7df51414502ec47c6ef3d7d163158cf29013f96f5c6"
+
+[[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "cdc5ef1f02a217c09c778408b7a8338d064499116329a09f3fd0808c1da24e8b"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -147,11 +147,6 @@ hash = "e1016eb125a5a41a10f80847eb00affae0e539e703846f303949ed5d82b7f1bf"
 metafile = true
 
 [[files]]
-file = "mods/allthetrims.pw.toml"
-hash = "dd2c4d7752f493fee40b3e417692b0ed32d356001c479c1b3d33d95adafeb8b6"
-metafile = true
-
-[[files]]
 file = "mods/ambient-environment.pw.toml"
 hash = "1047a7b018546f650c04d6999110a3b80b246fd0ab716e8375d3565c3942dcfe"
 metafile = true
@@ -174,11 +169,6 @@ metafile = true
 [[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "90b4a61d7ee6099dc34cf85f099299293401b87fc8f3ca07ed59262c1c63c5a5"
-metafile = true
-
-[[files]]
-file = "mods/anvil-restoration.pw.toml"
-hash = "669aff6f82c7953f019158a0896b02a0f6fd7eea574afef2a8685fd6f8996c92"
 metafile = true
 
 [[files]]
@@ -269,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "eab3bde12ebbd1f0f30cc613057a5530d0619e7bf4f83d03c0799d8ac2181706"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
 metafile = true
 
 [[files]]
@@ -392,11 +377,6 @@ hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
 
 [[files]]
-file = "mods/colorful-hearts.pw.toml"
-hash = "7981cc78d8cb003af39d161cfe26173c3cbdb327b47bce79fc61123c915fb9e0"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -487,6 +467,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "4d4bc3f85ac72b03a999650eb8e0741bbcc3257691a7940df5bb3a5830e5498b"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "354515e4c9017acf24464556a4b56f3e15d0302308d09a9fe80817b05b6e4ff5"
 metafile = true
@@ -547,11 +532,6 @@ hash = "fca510598b1bc50b160d699d2487717a23b43b9509952bfbe1fb31d9336e2545"
 metafile = true
 
 [[files]]
-file = "mods/effecttimerplus.pw.toml"
-hash = "1a52f666a55c8842f8c42b3f9b699b36dc08ccb570e1ce66b91994de815190f0"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
@@ -569,11 +549,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "78370ae52e87fdd72c5a988bed40674d1a7a9bc8a7d69e899f6a4fa91901925d"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-level-cap-indicator.pw.toml"
-hash = "a8e7ffabf346780dcb4ec8b2039875f280f06014696447f92007f87d890b1ff6"
 metafile = true
 
 [[files]]
@@ -754,6 +729,16 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "270e7deb656a87290ebe612dd7aaae35f6e353e31611ffdbd71d5ebf78dc8176"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "7d14221f6c497f6aeaac0a71ab6f74a9902729986aaf0f30a96867d46f653510"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "464489983fdf28e31487ba2cb8c653083a05e17ae34549320368af8a0cdab658"
 metafile = true
 
 [[files]]
@@ -957,6 +942,11 @@ hash = "f83b253ca6a8e6f2f847952704da0e1fb00e65cbb10b7c9cb15d1a1780618da0"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "fb05d7ec98426510ee309380a6f804f5670fe45657cdfe6b2b83ee1fa375f7e7"
+metafile = true
+
+[[files]]
 file = "mods/particle-interactions-forgified.pw.toml"
 hash = "a05e73f56c7454583b598944edb4b0f476794ae0b2183b1514cee6e77c332f17"
 metafile = true
@@ -1062,13 +1052,13 @@ hash = "402313cc27e7fab4f56376b276807e4fc525721802e7b81af87c33eaa29c43e1"
 metafile = true
 
 [[files]]
-file = "mods/sculk-expansion.pw.toml"
-hash = "19d6d4424883c9cda0baaa98a754d0b963cc9966052b81a7a7190d820f2a401a"
+file = "mods/screenshot-viewer.pw.toml"
+hash = "142dd384cfb6ed95d9962599278c870998ba2d80dc1bdab622616c50b29893b5"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "9fa45dfc2bc1e69381308d53a3a2f4ce21c10664424cdc8b84366d448cbc5250"
+file = "mods/sculk-expansion.pw.toml"
+hash = "19d6d4424883c9cda0baaa98a754d0b963cc9966052b81a7a7190d820f2a401a"
 metafile = true
 
 [[files]]
@@ -1104,6 +1094,11 @@ metafile = true
 [[files]]
 file = "mods/short-stacks.pw.toml"
 hash = "341c80eae9a7f16f6a60122f5de911cf95c3e7805e6feed133d26b6a8a840671"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "bf9031610dbdc15b03b0c58a2b867ea8f570f34f9e2dcb0d0cb010d44b346bb2"
 metafile = true
 
 [[files]]
@@ -1252,6 +1247,11 @@ hash = "28d7feccb5b1fcd9b141dad4353e96bcd7154b011a871953096305aa75154a66"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
+metafile = true
+
+[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "388e7cabca90d61def6526c021ff1c222996378dad4a24a24518fccd2a8bdbcd"
 metafile = true
@@ -1294,11 +1294,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
-metafile = true
-
-[[files]]
-file = "mods/wimby.pw.toml"
-hash = "cfba7662c4a129b097b75745cbad9c6ea897756fa88136b2c72a5000d190d51d"
 metafile = true
 
 [[files]]
