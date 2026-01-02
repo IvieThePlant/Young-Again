@@ -1057,11 +1057,6 @@ hash = "ca5d254eded2a38a5db675f464d2fe355c633a2f774b9d4e2937163639a8b98e"
 metafile = true
 
 [[files]]
-file = "mods/riding-partnersreforged.pw.toml"
-hash = "d5800bec0302255f926e8affe6549797b6fd1f2c8478c28d0cf0ba1b60a5528a"
-metafile = true
-
-[[files]]
 file = "mods/scholar.pw.toml"
 hash = "402313cc27e7fab4f56376b276807e4fc525721802e7b81af87c33eaa29c43e1"
 metafile = true
