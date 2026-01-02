@@ -45,10 +45,6 @@ file = "config/durabilitytooltip-common.toml"
 hash = "84559c6bad1dfbc1d7c147acc284bc487053b9b0ebdd60a32e795b7b4527a3d3"
 
 [[files]]
-file = "config/enchantmentlevelcapindicator.json5"
-hash = "a064c771ded49edd455ee343864b885dcc8774aa10642b197f6a1a17bbdc31f7"
-
-[[files]]
 file = "config/gallery-common.toml"
 hash = "f9c06af5b63b92bbef385e331643a46e0fb300a20fd3d2fbab0ee525ac8b2eef"
 
@@ -553,11 +549,6 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "78370ae52e87fdd72c5a988bed40674d1a7a9bc8a7d69e899f6a4fa91901925d"
-metafile = true
-
-[[files]]
-file = "mods/enchantment-level-cap-indicator.pw.toml"
-hash = "a8e7ffabf346780dcb4ec8b2039875f280f06014696447f92007f87d890b1ff6"
 metafile = true
 
 [[files]]
