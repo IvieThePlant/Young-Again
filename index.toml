@@ -1237,11 +1237,6 @@ hash = "cf9a32d0d56c2578af904d232f16b8a223598c4e5011dfb7a755227a2e627e80"
 metafile = true
 
 [[files]]
-file = "mods/the-sound-of-raindrums.pw.toml"
-hash = "9a76e33c8f2e891dd22e7d501186a711d0a28894070d0bf0f37915f99d05f890"
-metafile = true
-
-[[files]]
 file = "mods/tide.pw.toml"
 hash = "04c81e09d55ec32521ee7921d86f8d98ab0e7981974bc0c0bfd39a849166c1ca"
 metafile = true
