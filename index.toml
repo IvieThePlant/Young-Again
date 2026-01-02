@@ -1066,6 +1066,11 @@ hash = "402313cc27e7fab4f56376b276807e4fc525721802e7b81af87c33eaa29c43e1"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-viewer.pw.toml"
+hash = "142dd384cfb6ed95d9962599278c870998ba2d80dc1bdab622616c50b29893b5"
+metafile = true
+
+[[files]]
 file = "mods/sculk-expansion.pw.toml"
 hash = "19d6d4424883c9cda0baaa98a754d0b963cc9966052b81a7a7190d820f2a401a"
 metafile = true
