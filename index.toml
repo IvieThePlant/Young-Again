@@ -81,6 +81,10 @@ file = "config/serverpause-common.toml"
 hash = "ccac76a1eb848670646fe7df51414502ec47c6ef3d7d163158cf29013f96f5c6"
 
 [[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "cdc5ef1f02a217c09c778408b7a8338d064499116329a09f3fd0808c1da24e8b"
+
+[[files]]
 file = "config/subtle_effects/blocks.toml"
 hash = "c405b865e4fbcd127901f720de53788b01ae1f630300827020913b87fd2ba058"
 
@@ -264,11 +268,6 @@ metafile = true
 [[files]]
 file = "mods/better-nether-map.pw.toml"
 hash = "eab3bde12ebbd1f0f30cc613057a5530d0619e7bf4f83d03c0799d8ac2181706"
-metafile = true
-
-[[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
 metafile = true
 
 [[files]]
@@ -1109,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/short-stacks.pw.toml"
 hash = "341c80eae9a7f16f6a60122f5de911cf95c3e7805e6feed133d26b6a8a840671"
+metafile = true
+
+[[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "bf9031610dbdc15b03b0c58a2b867ea8f570f34f9e2dcb0d0cb010d44b346bb2"
 metafile = true
 
 [[files]]
