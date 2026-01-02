@@ -177,11 +177,6 @@ hash = "90b4a61d7ee6099dc34cf85f099299293401b87fc8f3ca07ed59262c1c63c5a5"
 metafile = true
 
 [[files]]
-file = "mods/anvil-restoration.pw.toml"
-hash = "669aff6f82c7953f019158a0896b02a0f6fd7eea574afef2a8685fd6f8996c92"
-metafile = true
-
-[[files]]
 file = "mods/archeologicalmod.pw.toml"
 hash = "a7042fd7baee159623ba657601388f7c2d3f66a1cacef751c86c2aa87f9e1b9b"
 metafile = true
