@@ -17,6 +17,10 @@ file = "config/alexsmobsinteraction-client.toml"
 hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "1d128b83e8fe4106cbceab567362fcf7538401358e6b79261c30acae195d967e"
+
+[[files]]
 file = "config/bettercombat/fallback_compatibility.json"
 hash = "e2b7d5b270fed503b22c2ad0b69a501cb76c48c7fde1daae7e38a4df06a05aa2"
 
@@ -79,6 +83,10 @@ hash = "ccac76a1eb848670646fe7df51414502ec47c6ef3d7d163158cf29013f96f5c6"
 [[files]]
 file = "config/shouldersurfing-client.toml"
 hash = "cdc5ef1f02a217c09c778408b7a8338d064499116329a09f3fd0808c1da24e8b"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "b2c1857d47333ea3862fd6913419b079c322aaa8f1dadcd13e8f2cca8e16859f"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
