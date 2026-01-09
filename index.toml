@@ -17,10 +17,6 @@ file = "config/alexsmobsinteraction-client.toml"
 hash = "021faa38625a6013550a1d99e311170fb89e54206cd5768f3b1f6297a61c5c7e"
 
 [[files]]
-file = "config/bcc-common.toml"
-hash = "1d128b83e8fe4106cbceab567362fcf7538401358e6b79261c30acae195d967e"
-
-[[files]]
 file = "config/bettercombat/fallback_compatibility.json"
 hash = "e2b7d5b270fed503b22c2ad0b69a501cb76c48c7fde1daae7e38a4df06a05aa2"
 
@@ -257,11 +253,6 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "52b4f29eb4a4392ef085617292842dc9fc84d86c318da5ce470b24eab77f6bdc"
-metafile = true
-
-[[files]]
-file = "mods/better-compatibility-checker.pw.toml"
-hash = "f5eabbef8dbed2bc19e632718a720a6d77466eeb66b9b220930f7f66e8a9d032"
 metafile = true
 
 [[files]]
