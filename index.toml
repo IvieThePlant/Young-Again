@@ -956,11 +956,6 @@ hash = "a05e73f56c7454583b598944edb4b0f476794ae0b2183b1514cee6e77c332f17"
 metafile = true
 
 [[files]]
-file = "mods/particle-rain.pw.toml"
-hash = "e948bfb3b188043ae7e8a7d9c1014015420fb51c3cc84bdc4b319b647166d7f3"
-metafile = true
-
-[[files]]
 file = "mods/peaceful-moon.pw.toml"
 hash = "aa2f9067f54c29ffe07bfbcb5da29bd6caf981472f3b2dbee9bd8d7d0b5ea677"
 metafile = true
